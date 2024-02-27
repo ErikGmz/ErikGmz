@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning Ruby on Rails on [BrightCoders Bootcamp](https://github.com/BrightCoders-Institute).
-- 👨‍💻 All of my projects are available in my [GitHub profile](https://github.com/ErikGmz).
+- 👨‍💻 All of my projects are available at my [GitHub profile](https://github.com/ErikGmz).
 - 💬 Ask me about web technologies, Ruby and Rails.
 - 📫 Contact me at my [email](erikgomez198755@outlook.com).
 - 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/erik-g%C3%B3mez-a28395159/).
