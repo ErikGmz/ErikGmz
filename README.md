@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erik Gómez</h1>
-<h3 align="center">A recently graduated Computer Systems Engineer that is aiming to thrive in Full Stack software development</h3>
+<h3 align="center">A Computer Systems Engineer and Software Developer that is aiming to thrive in Full Stack software development</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning Ruby on Rails on [BrightCoders Bootcamp](https://github.com/BrightCoders-Institute).
+- 🌱 I recently completed a Ruby on Rails Bootcamp on [BrightCoders Institute](https://github.com/BrightCoders-Institute).
 - 👨‍💻 All of my projects are available at my [GitHub profile](https://github.com/ErikGmz).
-- 💬 Ask me about web technologies, Ruby and Rails.
 - 📫 Contact me at my [email](erikgomez198755@outlook.com).
 - 📄 Know about my experiences at my [LinkedIn profile](https://www.linkedin.com/in/erik-g%C3%B3mez-a28395159/).
 - ⚡ I love playing videogames.
